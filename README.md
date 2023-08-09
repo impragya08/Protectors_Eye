@@ -1,3 +1,6 @@
+# Protector's Eye-
+"Centralizing the news, Developing safer environment"
+
 # Project Overview and Problem Statement:
 
 The problem at hand pertains to the social cause domain, where many news incidents remain overlooked by traditional media outlets, resulting in a lack of support and assistance for the affected individuals and communities. These unreported incidents create a gap in public awareness about critical events happening at the local level, hindering people's ability to extend help and protect each other effectively. To address this issue, there is a need to establish a platform that empowers individuals to stay informed about their neighborhood's safety and well-being. By fostering a connected and vigilant community, this platform seeks to bridge the gap between unreported incidents and collective support, facilitating immediate assistance and safety measures for individuals and their loved ones. Through the proposed solution, individuals can actively contribute to creating a safer and more supportive environment for everyone in their locality.
